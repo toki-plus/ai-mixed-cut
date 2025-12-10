@@ -90,7 +90,7 @@ This project redefines video content re-creation with a three-phase intelligent 
     -   **Module 3**:
         -   Click "Add Material Group" to configure at least one local folder of video clips.
         -   Check the desired video effects.
-        -   In the "Hardware & Task" section, set GPU concurrency, generation count, etc.
+    -   **Module 4**: In the "Hardware & Task" section, set GPU concurrency, generation count, etc.
 3.  **Execute Tasks**:
     -   **Step-by-Step (Recommended for first-time use)**:
         1.  Click **"Start Extraction"** and wait for the AI to extract scripts.
