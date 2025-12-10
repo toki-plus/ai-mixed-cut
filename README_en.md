@@ -76,7 +76,7 @@ This project redefines video content re-creation with a three-phase intelligent 
 
 ### Installation & Configuration
 
-**Download Project**: https://download.llxoxll.com/latest/yanqu_mixed_cut_v2
+-   **Download Link**: https://download.llxoxll.com/latest/yanqu_mixed_cut_v2
 
 ## 📖 Usage Guide
 
