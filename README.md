@@ -131,3 +131,11 @@
 -   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: AI驱动的文本转视频工具，自动将文案转化为带配音、字幕和封面的短视频，支持文案提取/二创/翻译。
 -   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: 创新“高帧率抽帧混合”技术，重构视频数据指纹，规避短视频平台原创度检测/查重机制。
 -   **[Video Mover](https://github.com/toki-plus/video-mover)**: 全自动化内容创作流水线，自动监听下载视频、多维度去重、AI生成标题，一键发布多平台。
+
+## 🤝 参与贡献
+
+欢迎任何形式的贡献！如果你有新的功能点子、发现了Bug，或者有任何改进建议，请：
+-   提交一个 [Issue](https://github.com/toki-plus/ai-mixed-cut/issues) 进行讨论。
+-   Fork 本仓库并提交 [Pull Request](https://github.com/toki-plus/ai-mixed-cut/pulls)。
+
+如果这个项目对你有帮助，请不吝点亮一颗 ⭐！
