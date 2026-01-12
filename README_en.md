@@ -125,6 +125,7 @@ This project redefines video content re-creation with a three-phase intelligent 
 
 ## 📂 My Other Open-Source Projects
 
+-   **[AI-Trader-For-MT4](https://github.com/toki-plus/ai-trader-for-mt4)**: A revolutionary open-source framework that transforms a Large Language Model (LLM) into an autonomous trading agent for the MetaTrader 4 (MT4) platform.
 -   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: An efficient USPS bulk package tracker for e-commerce sellers, featuring anti-blocking scraping and formatted Excel report generation.
 -   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: A fully automated AI-native video generation pipeline, integrating Text-to-Image, Image-to-Video, and Text-to-Music models to create AIGC short videos with one click.
 -   **[AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)**: An AI-driven intelligent clipping tool that automatically analyzes and extracts "highlight moments" from long-form videos and generates viral titles.
