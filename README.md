@@ -125,6 +125,7 @@
 
 ## 📂 我的其他开源项目
 
+-   **[Netease Downloader](https://github.com/toki-plus/netease-downloader)**: 一款优雅、功能丰富的网易云音乐下载器，支持无损/高品质音质、歌单/专辑批量下载、扫码登录和自动写入ID3元数据。
 -   **[AI-Trader-For-MT4](https://github.com/toki-plus/ai-trader-for-mt4)**: 革命性开源框架，将大语言模型（LLM）转变为能在MetaTrader 4（MT4）平台上进行自主交易的AI代理。
 -   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: 专为跨境电商卖家设计的高效USPS批量物流追踪器，支持防屏蔽抓取并生成精美Excel报告。
 -   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: 全自动AI原生视频生成工作流，集成文生图、图生视频和文生音乐模型，一键创作AIGC短视频。
