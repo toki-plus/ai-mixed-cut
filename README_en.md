@@ -111,7 +111,7 @@ This project redefines video content re-creation with a three-phase intelligent 
       <br />
       <sub><b>WeChat</b></sub>
       <br />
-      <sub>ID: toki-plus (Note: "GitHub Customization")</sub>
+      <sub>ID: toki-plus</sub>
     </td>
     <td align="center">
       <img src="./images/gzh.png" alt="Public Account QR Code" width="200"/>
