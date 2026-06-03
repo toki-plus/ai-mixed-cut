@@ -1,4 +1,4 @@
-# AI Mixed-Cut: AI智能混剪工作流
+﻿# AI Mixed-Cut: AI智能混剪工作流
 
 [简体中文](./README.md) | [English](./README_en.md)
 
@@ -127,14 +127,16 @@
 
 ## 📂 我的其他开源项目
 
+-   **[AI-Trader-For-MT5](https://github.com/toki-plus/ai-trader-for-mt5)**: 面向 MetaTrader 5 的 AI 交易助手与 EA 工程化框架，支持 MQL5、Python、MCP 工具服务、风控模块和私有化定制开发。
 -   **[Netease Downloader](https://github.com/toki-plus/netease-downloader)**: 一款优雅、功能丰富的网易云音乐下载器，支持无损/高品质音质、歌单/专辑批量下载、扫码登录和自动写入ID3元数据。
--   **[AI-Trader-For-MT4](https://github.com/toki-plus/ai-trader-for-mt4)**: 革命性开源框架，将大语言模型（LLM）转变为能在MetaTrader 4（MT4）平台上进行自主交易的AI代理。
--   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: 专为跨境电商卖家设计的高效USPS批量物流追踪器，支持防屏蔽抓取并生成精美Excel报告。
--   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: 全自动AI原生视频生成工作流，集成文生图、图生视频和文生音乐模型，一键创作AIGC短视频。
--   **[AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)**: AI驱动的智能剪辑工具，全自动从长视频分析、提取“高光时刻”，并生成爆款标题。
--   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: AI驱动的文本转视频工具，自动将文案转化为带配音、字幕和封面的短视频，支持文案提取/二创/翻译。
--   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: 创新“高帧率抽帧混合”技术，重构视频数据指纹，规避短视频平台原创度检测/查重机制。
--   **[Video Mover](https://github.com/toki-plus/video-mover)**: 全自动化内容创作流水线，自动监听下载视频、多维度去重、AI生成标题，一键发布多平台。
+-   **[AI-Trader-For-MT4](https://github.com/toki-plus/ai-trader-for-mt4)**: LLM驱动的自主型MT4交易机器人框架，将大语言模型转变为能够在 MetaTrader 4 平台上进行“感知-思考-行动”的 AI 交易代理。
+-   **[Auto USPS Tracker](https://github.com/toki-plus/auto-usps-tracker)**: 专为跨境电商卖家设计的 USPS 批量物流追踪器，支持批量查询并生成 Excel 报告。
+-   **[AI Video Workflow](https://github.com/toki-plus/ai-video-workflow)**: 全自动 AI 原生视频生成工作流，集成文生图、图生视频和文生音乐模型，一键创作 AIGC 短视频。
+-   **[AI Highlight Clip](https://github.com/toki-plus/ai-highlight-clip)**: AI 驱动的智能剪辑工具，自动从长视频中分析并提取高光片段，生成适合分发的短视频内容。
+-   **[AI TTV Workflow](https://github.com/toki-plus/ai-ttv-workflow)**: AI 驱动的文本转视频工具，自动将文案转化为带配音、字幕和封面的短视频。
+-   **[AB Video Deduplicator](https://github.com/toki-plus/AB-Video-Deduplicator)**: 视频去重与指纹重构工具，通过高帧率抽帧混合等方式改变视频数据特征。
+-   **[Video Mover](https://github.com/toki-plus/video-mover)**: 全自动内容创作流水线，支持视频监听下载、多维度处理、AI 标题生成和多平台发布。
+
 
 ## 🤝 参与贡献
 
@@ -143,3 +145,6 @@
 -   Fork 本仓库并提交 [Pull Request](https://github.com/toki-plus/ai-mixed-cut/pulls)。
 
 如果这个项目对你有帮助，请不吝点亮一颗 ⭐！
+
+
+
